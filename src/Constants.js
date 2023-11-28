@@ -1,5 +1,4 @@
 export const aws_api = "https://qvggb4nki4.execute-api.us-east-1.amazonaws.com/Prod" // tap dynamo api will not be avaiable to the public
-export const aws_api_trick = "https://2hd0c42fog.execute-api.us-east-1.amazonaws.com/Prod"
 export const aws_tap_api = "https://qvggb4nki4.execute-api.us-east-1.amazonaws.com/Prod/user"
 
 // trainapup-20

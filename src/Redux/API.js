@@ -1,4 +1,4 @@
-import { aws_api, aws_api_trick, aws_tap_api } from "../Constants"
+import { aws_api, aws_tap_api } from "../Constants"
 import { isTesting } from "./ApiTesting"
 
 export const apiGetTrick = (trickName, userJwt) => {
